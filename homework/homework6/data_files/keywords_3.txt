@@ -1,0 +1,5 @@
+giveaway 4
+guaranteed 3
+miracle 4
+prize 6
+promotion 3
