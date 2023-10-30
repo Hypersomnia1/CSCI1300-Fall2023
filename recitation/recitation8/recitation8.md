@@ -30,7 +30,7 @@ using namespace std;
 int main() 
 {
     // Fill the line below to make an input file stream from the file name given above.
-    _____________________________________
+    ifstream infile("input1.txt");
     string text;  
     while(getline(infile, text))
     {      
@@ -53,9 +53,9 @@ using namespace std;
 int main() 
 {
     // Fill the line below to make an input file stream from the file input.txt.
-    _______________________________
+    ifstream infile("input.txt");
     // Fill the line below to make an output file stream to the file output.txt.
-    _______________________________
+    ofstream outfile("output.txt");
     string text;  
     while(getline(infile, text))
     {
@@ -102,7 +102,7 @@ Thursday is the busiest day of the week at the motel.
 
 -----------------------------
 **Pseudocode:**
-<br/><br/>
+<br/>In question1.cpp<br/>
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -111,7 +111,7 @@ Thursday is the busiest day of the week at the motel.
 
 -----------------------------
 **Sample Run 1:**
-<br/><br/>
+<br/>In question1.cpp<br/>
 <br/><br/>
 
 -----------------------------
@@ -121,13 +121,13 @@ Thursday is the busiest day of the week at the motel.
 
 -----------------------------
 **Sample Run 3:**
-<br/><br/>
+<br/>In question1.cpp<br/>
 <br/><br/>
 
 **1c)** Implement your solution in C++ using VS Code. Revise your solution, save, compile and run it again. Are you getting the expected result and output? Keep revising until you do. Make you sure you test for the values used in your sample runs, and for the boundary conditions.
 
 <br/><br/>
-<br/><br/>
+<br/>In question1.cpp<br/>
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -178,7 +178,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec felis pretium
 
 -----------------------------
 **Pseudocode:**
-<br/><br/>
+<br/>In question2.cpp<br/>
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -187,12 +187,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec felis pretium
 
 -----------------------------
 **Sample Run 1:**
-<br/><br/>
+<br/>In question2.cpp<br/>
 <br/><br/>
 
 -----------------------------
 **Sample Run 2:**
-<br/><br/>
+<br/>In question2.cpp<br/>
 <br/><br/>
 
 
