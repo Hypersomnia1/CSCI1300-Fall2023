@@ -1,0 +1,6 @@
+your|program|1|should
+still|work|2|with
+other|files|3|in
+the|correct|4|format
+even|if|5|they
+are|not|6|candy

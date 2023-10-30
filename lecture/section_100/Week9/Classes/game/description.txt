@@ -1,0 +1,13 @@
+Design a pokemon game with following features:
+At the beginning of the game, you choose your starting pokemon.
+It will have some default statistics such as Name, Type, HP, Attack, Defense and Speed.
+You start your journey of exploring and capturing wild pokemons to diversify your pokedex.
+After you have captured 3 pokemons, you battle a gym leader to earn a Pokemon badge.
+Save the gym badge in a file at the end of the game.
+
+All Pokémon have five statistics which affect their performance in battle. These are HP, Attack, Defense, and Speed. Some of these statistics can be modified during the course of the game.
+1. HP (short for Hit Points): A Pokémon faints when its HP reaches zero, and it cannot be used in battle again until it is revived at a Pokémon Center.
+2. Attack: Determines the strength of a Pokémon's attacks.
+3. Defense: Determines the Pokémon's resistance against attacks.
+4. Speed: After battle commands are entered, the Speed statistics of the participating Pokémon are compared. The Pokémon with higher Speed will attack before those with lower Speed.
+5. Max HP: The maximum HP the pokemon revives itself to during "Rest"
