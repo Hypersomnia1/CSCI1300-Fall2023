@@ -1,0 +1,100 @@
+Guardians of the Galaxy,2014,8.1,757074
+Prometheus,2012,7,485820
+Split,2016,7.3,157606
+Sing,2016,7.2,60545
+Suicide Squad,2016,6.2,393727
+The Great Wall,2016,6.1,56036
+La La Land,2016,8.3,258682
+Mindhorn,2016,6.4,2490
+The Lost City of Z,2016,7.1,7188
+Passengers,2016,7,192177
+Fantastic Beasts and Where to Find Them,2016,7.5,232072
+Hidden Figures,2016,7.8,93103
+Rogue One,2016,7.9,323118
+Moana,2016,7.7,118151
+Colossal,2016,6.4,8612
+The Secret Life of Pets,2016,6.6,120259
+Hacksaw Ridge,2016,8.2,211760
+Jason Bourne,2016,6.7,150823
+Lion,2016,8.1,102061
+Arrival,2016,8,340798
+Gold,2016,6.7,19053
+Manchester by the Sea,2016,7.9,134213
+Hounds of Love,2016,6.7,1115
+Trolls,2016,6.5,38552
+Independence Day: Resurgence,2016,5.3,127553
+Paris pieds nus,2016,6.8,222
+Bahubali: The Beginning,2015,8.3,76193
+Dead Awake,2016,4.7,523
+Bad Moms,2016,6.2,66540
+Assassin's Creed,2016,5.9,112813
+Why Him?,2016,6.3,48123
+Nocturnal Animals,2016,7.5,126030
+X-Men: Apocalypse,2016,7.1,275510
+Deadpool,2016,8,627797
+Resident Evil: The Final Chapter,2016,5.6,46165
+Captain America: Civil War,2016,7.9,411656
+Interstellar,2014,8.6,1047747
+Doctor Strange,2016,7.6,293732
+The Magnificent Seven,2016,6.9,122853
+5- 25- 77,2007,7.1,241
+Moonlight,2016,7.5,135095
+The Founder,2016,7.2,37033
+Lowriders,2016,6.3,279
+Pirates of the Caribbean: On Stranger Tides,2011,6.7,395025
+Miss Sloane,2016,7.3,17818
+Fallen,2016,5.6,5103
+Star Trek Beyond,2016,7.1,164567
+The Last Face,2016,3.7,987
+Star Wars: Episode VII - The Force Awakens,2015,8.1,661608
+Underworld: Blood Wars,2016,5.8,41362
+Mother's Day,2016,5.6,20221
+John Wick,2014,7.2,321933
+The Dark Knight,2008,9,1791916
+Silence,2016,7.3,49190
+Don't Breathe,2016,7.2,121103
+Me Before You,2016,7.4,113322
+Their Finest,2016,7,3739
+Sully,2016,7.5,137608
+Batman v Superman: Dawn of Justice,2016,6.7,472307
+The Autopsy of Jane Doe,2016,6.8,35870
+The Girl on the Train,2016,6.5,102177
+The Prestige,2006,8.5,913152
+Kingsman: The Secret Service,2014,7.7,440209
+Patriots Day,2016,7.4,39784
+Mad Max: Fury Road,2015,8.1,632842
+Wakefield,2016,7.5,291
+Deepwater Horizon,2016,7.2,89849
+The Promise,2016,5.9,149791
+Allied,2016,7.1,78079
+A Monster Calls,2016,7.5,39134
+Zootopia,2016,8.1,296853
+Pirates of the Caribbean: At World's End,2007,7.1,498821
+The Avengers,2012,8.1,1045588
+Pirates of the Caribbean: Dead Man's Chest,2006,7.3,552027
+Ghostbusters,2016,5.3,147717
+Inception,2010,8.8,1583625
+Captain Fantastic,2016,7.9,105081
+The Wolf of Wall Street,2013,8.2,865134
+Gone Girl,2014,8.1,636243
+Furious Seven,2015,7.2,301249
+Jurassic World,2015,7,455169
+Live by Night,2016,6.4,27869
+Avatar,2009,7.8,935408
+The Hateful Eight,2015,7.8,341170
+The Accountant,2016,7.4,162122
+Prisoners,2013,8.1,431185
+Warcraft,2016,7,187547
+The Help,2011,8.1,342429
+War Dogs,2016,7.1,106463
+Avengers: Age of Ultron,2015,7.4,516895
+The Nice Guys,2016,7.4,175067
+Kimi no na wa,2016,8.6,34110
+The Void,2016,5.8,9247
+Personal Shopper,2016,6.3,10181
+The Departed,2006,8.5,937414
+Legend,2015,7,108836
+Thor,2011,7,570814
+The Martian,2015,8,556097
+Contratiempo,2016,7.9,7204
+The Man from U.N.C.L.E.,2015,7.3,202973

@@ -1,0 +1,14 @@
+Atlanta United FC,25,20
+Charlotte FC,25,24
+Chicago Fire FC,23,21
+FC Cincinnati,19,15
+Columbus Crew,10,12
+D.C. United,20,28
+FC Dallas,19,21
+Inter Miami CF,25,30
+CF Montreal,21,21
+New England Revolution,18,23
+New York City FC,25,19
+Orlando City SC,23,20
+Philadelphia Union,21,21
+Toronto FC,18,25
