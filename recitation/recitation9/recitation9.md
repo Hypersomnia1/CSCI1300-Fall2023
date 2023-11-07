@@ -41,9 +41,10 @@ int main()
     Person person;
 
     // Assign values to person's attributes; see expected output below
-    _________
-    _________
-    _________
+    person.name= "Anna";
+    person.age = "20";
+    person.occupation = "Software Engineer";
+    
 
     // Print out the person's information
     cout << "Name: " << person.name << endl;
@@ -80,11 +81,11 @@ int main()
 {
     // Create two instances of Person;
     Person person_one = {"Anna", 20, "Software Engineer"};
-    Person person_two = ______________________________________
+    Person person_two = {"Amy", 21, "Software Engineer"};
 
     // compares the two Person's occupation
 
-    if(____________________________________)
+    if(person_one.occupation==person_two.occupation)
     {
         cout << person_one.name << " and " << person_two.name << " have the same occupation: " << person_two.occupation << endl;
     }
@@ -133,7 +134,7 @@ Elephant Ear Guppy
 
 -----------------------------
 **Pseudocode:**
-<br/><br/>
+<br/>code in fish.cpp<br/>
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -142,7 +143,7 @@ Elephant Ear Guppy
 
 -----------------------------
 **Sample Run 1:**
-<br/><br/>
+<br/>code in fish.cpp<br/>
 <br/><br/>
 
 -----------------------------
@@ -152,7 +153,8 @@ Elephant Ear Guppy
 
 **1c.** Implement your solution in C++ using VS Code. Revise your solution, save, compile, and run it again. Are you getting the expected result and output? Keep revising until you do. Make sure you test boundary conditions and the values from the sample runs.
 
-<br/><br/>
+[fish.cpp](/recitation/recitation9/fish.cpp)
+<br/>in file fish.cpp<br/>
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -212,12 +214,12 @@ Animal::Animal()
 // parameterized constructor
 Animal::Animal(string name, int age)
 {
-    __________________________
-    __________________________
+    _name = name;
+    _age = age;
 }
 
 // getter for name
-__________________________
+string Animal::getName() const
 {
     return _name;
 }
@@ -235,7 +237,7 @@ void Animal::setName(string name)
 }
 
 // setter for age
-____________________________________
+void Animal::setAge(int age)
 {
     _age = age;
 }
@@ -252,11 +254,14 @@ int main() {
     // creating an instance of Animal named dog using the default constructor
     Animal dog;
 
+    dog = Animal("Dog2", 25);
+
     cout << dog.getName() << endl;
     cout << dog.getAge() << endl;
 
     // create an instance of Animal named cat using the Parameterized constructor
-    ___________________________________
+    Animal cat = Animal("Cat",5);
+    //or Animal cat("Cat",5);
     cout << cat.getName() << endl;
     cout << cat.getAge() << endl;  
 
